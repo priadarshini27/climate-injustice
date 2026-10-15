@@ -1,0 +1,5 @@
+Topic:
+Climate Injustice: Quantifying the Gap Between Carbon Contributors and Climate Victims
+
+Description:
+This project analyzes the mismatch between countries that contribute most to global greenhouse gas emissions and those that face the highest vulnerability to climate impacts with the least capacity to adapt. Using EDGAR emissions data and ND-GAIN vulnerability/readiness scores, the analysis quantifies this inequity and visualizes the "climate debt" owed by high-emitting nations to vulnerable ones.
